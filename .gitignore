@@ -1,4 +1,5 @@
-/venv
-/dist
-/build
-/censos_income.egg-info
+venv
+dist
+build
+censos_income.egg-info
+
